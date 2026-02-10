@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+natasha-venv/
+
+# Runtime logs
+logs/
+
+# OS files
+.DS_Store

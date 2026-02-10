@@ -1,0 +1,6 @@
+LOG_FILE = "logs/events.json"
+
+SSH_PORT = 2222
+HTTP_PORT = 8080
+FTP_PORT = 2121
+TELNET_PORT = 2323
